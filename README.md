@@ -1,6 +1,11 @@
 <h1>Guess The Number!</h1>
-<p>A number guessing game made using javascript, HTML and CSS.</p>
-<b>Instructions:</b>
+<p>A number guessing game made using javascript, HTML and CSS.
+  <br>
+  <br>
+  <b>open 'GuessTheNumber.html' with a browser.</b>
+</p>
+
+<b>Game Instructions:</b>
 <ul>
   <li>The games generates a random number between 1 and 20 (both included).</li>
   <li>The objective of the game is to guess the randomly generated number.</li>
